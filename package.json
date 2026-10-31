@@ -2,7 +2,7 @@
   "name": "core-banking-migration-demo",
   "private": true,
   "version": "1.0.0",
-  "description": "Zero-downtime migration from a legacy core banking system to a double-entry ledger under live traffic: change data capture, checkpointed backfill, continuous reconciliation, shadow reads and cutover. Open-source demo by Bridge Harbour IT Solutions.",
+  "description": "Zero-downtime migration from a legacy core banking system to a double-entry ledger under live traffic: change data capture, checkpointed backfill, continuous reconciliation, shadow reads and cutover. Open-source demo by Relevanz Technologies.",
   "type": "module",
   "license": "MIT",
   "scripts": {

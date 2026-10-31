@@ -6,7 +6,7 @@ A live simulation of a zero-downtime migration from a legacy core banking system
 
 ![Migration dashboard mid-backfill, with an injected defect caught by reconciliation](docs/screenshot.png)
 
-> **This is an open-source demo, not client code.** Bridge Harbour IT Solutions built it to show the approach behind migrations like the one in our *Core Banking Modernization* case study. Client code stays private. All accounts, customers and transactions are simulated in the browser, scaled down to about 2,000 accounts so the whole migration plays out in under a minute.
+> **This is an open-source demo, not client code.** Relevanz Technologies built it to show the approach behind migrations like the one in our *Core Banking Modernization* case study. Client code stays private. All accounts, customers and transactions are simulated in the browser, scaled down to about 2,000 accounts so the whole migration plays out in under a minute.
 
 ## The approach
 
